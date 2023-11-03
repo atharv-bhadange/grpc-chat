@@ -7,4 +7,4 @@ For running the service:
 go build -o main &&  ./main
 ```
 
-⭐ The repo is you loved it
+⭐ The repo if you loved it
